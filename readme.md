@@ -1,12 +1,29 @@
-# INF99X: Sample Course
+# SC-5004: Defend against cyberthreats with Microsoft Defender XDR
 
-This repo contains exercises and supporting files for Microsoft skilling content.
+- **[Link to labs (HTML format)]( https://microsoftlearning.github.io/APL-5001-configure-siem-security-operations-using-microsoft-sentinel/)**
 
-The exercises are used in both self-paced skilling experiences on [Microsoft Learn](https://learn.microsoft.com) and in Microsoft authorized instructor-led training.
+- **Are you an MCT?** - Have a look at our [GitHub User Guide for MCTs](https://microsoftlearning.github.io/MCT-User-Guide/)
 
+## What are we doing?
 
-## Information for MCTs
+- To support this course, we'll make frequent updates to the course content to keep it current with the Microsoft services used in the course. We're publishing the lab instructions and lab files on GitHub to allow for open contributions between the course authors and MCTs (Microsoft Certified Trainer) to keep the content current with product changes.
 
-**Are you an MCT?** - Have a look at our [GitHub User Guide for MCTs](https://microsoftlearning.github.io/MCT-User-Guide/)
+- We hope this brings a sense of collaboration to the labs like we have never had before - when a Microsoft service such as Azure or Microsoft 365 changes and you find it first during a live delivery, go ahead and make an enhancement right in the lab source. Help your fellow MCTs.
 
-Any MCT (Microsoft Certified Trainer) can submit a pull request to the code or content in the GitHub repro. Microsoft and the course author will then triage and include content and lab code changes as needed. You can submit bugs, changes, improvement, and ideas. Find a new Azure or Microsoft 365 feature before we have? Submit a new demo!
+## How should I use this repository?
+
+- The instructor materials are your primary source for teaching the course content.
+
+- These files on GitHub are designed to be used in the course labs, which use the hosted lab environment.
+
+- It's recommended that for every delivery, trainers check GitHub for any changes that may have been made to support the latest Microsoft cloud services and get the latest files for their delivery.
+
+## What about changes to the student handbook?
+
+- If a student handbook is provided, we'll review the student handbook on a quarterly basis and update through the normal MOC (Microsoft Official Curriculum) release channels as needed.
+
+## How do I contribute?
+
+- Any MCT (Microsoft Certified Trainer) can submit a pull request to the code or content in the GitHub repro. Microsoft and the course author will then triage and include content and lab code changes as needed.
+
+- You can submit bugs, changes, improvement, and ideas. Find a new Azure or Microsoft 365 feature before we have? Submit a new demo!

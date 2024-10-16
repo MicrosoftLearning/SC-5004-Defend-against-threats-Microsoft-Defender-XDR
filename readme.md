@@ -1,6 +1,6 @@
 # SC-5004: Defend against cyberthreats with Microsoft Defender XDR
 
-- **[Link to labs (HTML format)]( https://microsoftlearning.github.io/APL-5001-configure-siem-security-operations-using-microsoft-sentinel/)**
+- **[Link to labs (HTML format)](https://microsoftlearning.github.io/SC-5004-Defend-against-threats-Microsoft-Defender-XDR/)**
 
 - **Are you an MCT?** - Have a look at our [GitHub User Guide for MCTs](https://microsoftlearning.github.io/MCT-User-Guide/)
 

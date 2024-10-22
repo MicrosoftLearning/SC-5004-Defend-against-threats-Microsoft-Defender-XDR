@@ -1,4 +1,4 @@
-# SC-5004: Defend against cyberthreats with Microsoft Defender XDR
+# Defend against cyberthreats with Microsoft Defender XDR
 
 - **[Link to labs (HTML format)](https://microsoftlearning.github.io/SC-5004-Defend-against-threats-Microsoft-Defender-XDR/)**
 
